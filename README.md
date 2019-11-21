@@ -10,7 +10,7 @@ allprojects {
   
   Add the dependency
   dependencies {
-	        implementation 'com.github.ankeshakkie:AkkieToast:Tag'
+	       implementation 'com.github.ankeshakkie:AkkieToast:-SNAPSHOT'
 	}
   
   Example: ToasterMessage.s(Context,String)
